@@ -37,6 +37,21 @@
 
     }
 
+    .duo-1 {
+        display: none;
+    }
+    
+    .duo-2 {
+        display: flex;
+        width: 50px;
+        border: 2px solid gainsboro;
+        padding: 5px 10px;
+        border-radius: 7px;
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.617);
+
+    }
+    
+
     .left-section {
         width: 100%;
         height: auto;
