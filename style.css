@@ -70,6 +70,14 @@
     border-radius: 25px;
 }
 
+.duo-1 {
+    display: flex;
+}
+
+.duo-2 {
+    display: none;
+}
+
 /* left section-text*/
 
 .left-section {
